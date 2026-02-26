@@ -14,7 +14,7 @@ Full-Stack Systems · Machine Learning · Applied AI
 
 ### Featured Projects
 
-**ChiGo**  
+**[ChiGo](https://github.com/imran12234/ChiGo)**  
 AI-powered trip planning platform that generates personalized itineraries using user preferences and LLM-driven recommendations.  
 *Python · Django · PostgreSQL · OpenAI API*
 
