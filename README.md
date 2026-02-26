@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Imran Ahmed</h1>
 
-<!--
-**imran12234/imran12234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI & Software Engineer · MS Artificial Intelligence @ DePaul University<br/>
+Full-Stack Systems · Machine Learning · Applied AI
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://imrans.live">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/imran12234">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+**ChiGo**  
+AI-powered trip planning platform that generates personalized itineraries using user preferences and LLM-driven recommendations.  
+*Python · Django · PostgreSQL · OpenAI API*
+
+**SplitAI**  
+Secure full-stack bill splitting application with JWT authentication, RESTful APIs, and real-time payment tracking.  
+*React · Spring Boot · PostgreSQL · JWT · BCrypt*
+
+**Equation Recognition**  
+CNN-based handwritten math equation recognition system built using deep learning and computer vision techniques.  
+*Python · PyTorch · Computer Vision*
+
+---
+
+### Technical Skills
+
+**Languages:** Python, Java, TypeScript, SQL  
+**Frameworks:** React, Spring Boot, Django  
+**AI / ML:** PyTorch, CNNs, NLP, LLM APIs  
+**Databases:** PostgreSQL, H2, SQLite  
+**Tools:** Git, Docker, REST APIs, JWT Authentication
+
+---
+
+<p align="center">
+Building production-ready systems that combine software engineering with applied AI.
+</p>
