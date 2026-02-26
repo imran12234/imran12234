@@ -22,7 +22,7 @@ AI-powered trip planning platform that generates personalized itineraries using 
 Secure full-stack bill splitting application with JWT-based authentication, RESTful APIs, and real-time payment tracking.  
 *React · Spring Boot · PostgreSQL · JWT · BCrypt*
 
-**[Equation Recognition](https://github.com/imran12234/EquationRecognition)**  
+**[Equation Recognition](https://github.com/imran12234/Equation-Recognition)**  
 CNN-based handwritten math equation recognition system built using deep learning and computer vision techniques.  
 *Python · PyTorch · Computer Vision*
 
