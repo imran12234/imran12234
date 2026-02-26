@@ -18,11 +18,11 @@ Full-Stack Systems · Machine Learning · Applied AI
 AI-powered trip planning platform that generates personalized itineraries using user preferences and LLM-driven recommendations.  
 *Python · Django · PostgreSQL · OpenAI API*
 
-**SplitAI**  
+**[SplitAI](https://github.com/imran12234/SplitAI)**
 Secure full-stack bill splitting application with JWT authentication, RESTful APIs, and real-time payment tracking.  
 *React · Spring Boot · PostgreSQL · JWT · BCrypt*
 
-**Equation Recognition**  
+**[Equation Recognition](https://github.com/imran12234/EquationRecognition)**  
 CNN-based handwritten math equation recognition system built using deep learning and computer vision techniques.  
 *Python · PyTorch · Computer Vision*
 
