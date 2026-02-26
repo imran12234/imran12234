@@ -15,11 +15,11 @@ Full-Stack Systems · Machine Learning · Applied AI
 ### Featured Projects
 
 **[ChiGo](https://github.com/imran12234/ChiGo)**  
-AI-powered trip planning platform that generates personalized itineraries using user preferences and LLM-driven recommendations.  
+AI-powered trip planning platform that generates personalized itineraries using structured user preferences and LLM-driven recommendations.  
 *Python · Django · PostgreSQL · OpenAI API*
 
-**[SplitAI](https://github.com/imran12234/SplitAI)**
-Secure full-stack bill splitting application with JWT authentication, RESTful APIs, and real-time payment tracking.  
+**[SplitAI](https://github.com/imran12234/SplitAI)**  
+Secure full-stack bill splitting application with JWT-based authentication, RESTful APIs, and real-time payment tracking.  
 *React · Spring Boot · PostgreSQL · JWT · BCrypt*
 
 **[Equation Recognition](https://github.com/imran12234/EquationRecognition)**  
@@ -34,7 +34,7 @@ CNN-based handwritten math equation recognition system built using deep learning
 **Frameworks:** React, Spring Boot, Django  
 **AI / ML:** PyTorch, CNNs, NLP, LLM APIs  
 **Databases:** PostgreSQL, H2, SQLite  
-**Tools:** Git, Docker, REST APIs, JWT Authentication
+**Tools:** Git, Docker, REST APIs, JWT-based Authentication
 
 ---
 
